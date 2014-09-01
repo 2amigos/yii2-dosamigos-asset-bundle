@@ -21,7 +21,7 @@ use yii\web\AssetBundle;
  */
 class DosAmigosAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/2amigos/yii2-dosamigos-assets/assets';
+    public $sourcePath = '@vendor/2amigos/yii2-dosamigos-asset-bundle/assets';
 
     public $js = [
         'js/dosamigos.js'
