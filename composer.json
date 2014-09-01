@@ -1,7 +1,7 @@
 {
     "name": "2amigos/yii2-dosamigos-asset-bundle",
     "description": "2amigOS! Asset Bundle for Yii2.",
-    "keywords": ["yii", "extension", "component", "asset"],
+    "keywords": ["yii", "extension", "asset", "component"],
     "type": "yii2-extension",
     "license": "BSD-3-Clause",
     "authors": [
