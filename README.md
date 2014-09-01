@@ -1,5 +1,5 @@
-2amigOS Asset Bundle Component for Yii2
-=======================================
+Asset Bundle Component for Yii2
+===============================
 
 Includes an asset bundle component which will register assets that are shared among projects that includes certain
 extensions created by [2amigOS! Consulting Group LLC](http://2amigos.us). Currently, this asset bundle provides:
