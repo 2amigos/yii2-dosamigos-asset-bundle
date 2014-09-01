@@ -33,7 +33,7 @@ DosAmigosAsset::register($this);
 
 ```
 
-If its a requirement of an extension created by [2amigOS!](http://2amigos.us), it will be automatically registered.
+If its a requirement of an extension created by [2amigOS!](http://2amigos.us) it will be automatically registered.
 
 Further Information
 -------------------
