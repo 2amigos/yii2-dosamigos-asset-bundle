@@ -40,6 +40,7 @@ Usage
 ```php
 use dosamigos\assets\DosAmigosAsset;
 
+/* @var yii\web\View $this */
 DosAmigosAsset::register($this);
 
 ```
