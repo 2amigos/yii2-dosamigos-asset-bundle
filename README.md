@@ -5,7 +5,6 @@ Asset Bundle Component for Yii2
 [![Software License](https://img.shields.io/badge/license-BSD-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/2amigos/yii2-dosamigos-asset-bundle/master.svg?style=flat-square)](https://travis-ci.org/2amigos/yii2-dosamigos-asset-bundle)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/2amigos/yii2-dosamigos-asset-bundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-dosamigos-asset-bundle/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/2amigos/yii2-dosamigos-asset-bundle.svg?style=flat-square)](https://scrutinizer-ci.com/g/2amigos/yii2-dosamigos-asset-bundle)
 [![Total Downloads](https://img.shields.io/packagist/dt/2amigos/yii2-dosamigos-asset-bundle.svg?style=flat-square)](https://packagist.org/packages/2amigos/yii2-dosamigos-asset-bundle)
 
 Includes an asset bundle component which will register assets that are shared among projects that includes certain
