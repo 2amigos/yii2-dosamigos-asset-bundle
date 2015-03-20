@@ -53,6 +53,8 @@ Please, check the [Yii2](https://github.com/yiisoft/yii2/blob/master/docs/guide/
 documentation about assets for further information about its integration.
 
 
-> [![2amigOS!](http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png)](http://www.2amigos.us)  
-<i>Web development has never been so fun!</i>  
-[www.2amigos.us](http://www.2amigos.us)
+<blockquote>
+    <a href="http://www.2amigos.us"><img src="http://www.gravatar.com/avatar/55363394d72945ff7ed312556ec041e0.png"></a><br>
+    <i>web development has never been so fun</i><br> 
+    <a href="http://www.2amigos.us">www.2amigos.us</a>
+</blockquote>
