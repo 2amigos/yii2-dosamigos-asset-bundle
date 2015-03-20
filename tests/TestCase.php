@@ -7,7 +7,7 @@ use yii\web\AssetManager;
 use yii\web\View;
 
 /**
- * This is the base class for all tests.
+ * This is the base class for all  unit tests.
  */
 abstract class TestCase extends \PHPUnit_Framework_TestCase
 {
@@ -80,7 +80,7 @@ abstract class TestCase extends \PHPUnit_Framework_TestCase
 
     protected function getVendorPath()
     {
-        return dirname(dirname(__DIR__)) . '/vendor';
+        return dirname(__DIR__) . '/vendor';
     }
 
     /**
